@@ -1,16 +1,35 @@
-class ordem(self):
-    def calculaSomaTotal()
-    def pegaDados()
-    def pegaContagemDados()
-    def addDados()
-    def deletaDados()
+class ordem:
+    def calculaSomaTotal(self):
+        pass
+    
+    def pegaDados(self):
+        pass
+    
+    def pegaContagemDados(self):
+        pass
+    
+    def addDados(self):
+        pass
+    
+    def deletaDados(self):
+        pass
 
-class OrdemRepositorio(self)
-    def carregamento()
-    def salva()
-    def Update()
-    def delete()
+class OrdemRepositorio:
+    def carregamento(self):
+        pass
 
-class ordemVisualizacao(self)
-    def printOrdem()
-    def mostraOrdem()
+    def salva(self):
+        pass
+
+    def Update(self):
+        pass
+
+    def delete(self):
+        pass
+
+class ordemVisualizacao:
+    def printOrdem(self):
+        pass
+
+    def mostraOrdem(self):
+        pass
